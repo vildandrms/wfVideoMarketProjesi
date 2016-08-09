@@ -1,0 +1,25 @@
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.exe.config
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.exe
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.pdb
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmAnaSayfa.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmFilmTurleri.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.Properties.Resources.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.csproj.GenerateResource.Cache
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.exe
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.pdb
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmFilmler.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmFilmSorgulama.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmMusteriler.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmMusteriSorgulama.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmFilmSatis.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmSatisSorgulama.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.frmRaporlama.resources
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\RdlCompile.cache
+C:\Users\wissen\Documents\MS-Yaz-10\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\RdlCompile.compiled
+Z:\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.exe.config
+Z:\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.exe
+Z:\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.pdb
+C:\Kurs uygulamaları\Hoca\5.ay\5.ay\wfVideoMarketProjesi\wfVideoMarketProjesi\bin\Debug\wfVideoMarketProjesi.exe.config
+C:\Kurs uygulamaları\Hoca\5.ay\5.ay\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.exe
+C:\Kurs uygulamaları\Hoca\5.ay\5.ay\wfVideoMarketProjesi\wfVideoMarketProjesi\obj\Debug\wfVideoMarketProjesi.pdb
